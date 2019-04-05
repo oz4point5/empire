@@ -1,0 +1,16 @@
+{
+
+  "image" : [
+    {"key": "background", "path":"./assets/background.png"},
+    {"key": "titleImage", "path":"./assets/titleImage.png"},
+    {"key": "titleLogo", "path":"./assets/titleLogo.png"},
+    {"key": "titleBack", "path":"./assets/titleBack.png"},
+    {"key": "mainBack", "path":"./assets/mainBack.png"}
+  ],
+
+  "spritesheet" : [
+    {"key": "button", "path":"./assets/button.png"},
+    {"key": "window", "path":"./assets/window.png"}
+  ]
+
+}

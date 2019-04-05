@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  font-size: 12px;
+  font-family:"Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+
+header, footer{
+  background-color: #6088C6;
+  color: #FFFFFF;
+  margin-left: -10px;
+  margin-right: -10px;
+  overflow: hidden;
+}
+
+article{
+  background-color: #AEC4E5;
+  color: #5B5B5B;
+  margin-left: -10px;
+  margin-right: -10px;
+  overflow: hidden;
+}
